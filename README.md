@@ -4,4 +4,5 @@
 Docker image that contains Node.js and Chrome
 
 # Supported tags
-`latest`, `8.9.3-71.0`
+* `latest`
+* `8.9.3-71.0`
